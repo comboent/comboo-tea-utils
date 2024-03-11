@@ -1,0 +1,14 @@
+{
+  "name": "combooo-tea-utils",
+  "version": "1.0.0",
+  "description": "a simple utils to tea protocal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "shell-oooooyoung": "^1.1.9"
+  }
+}
